@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BloodlustSMP-NJMV.aternos.me",
+    "port": 18378,
     "version": "",
     "try-creative": false
   },
